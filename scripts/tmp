@@ -1,0 +1,43 @@
+n67=on 1:TEXT:Shokran* Tom*:#:{ putserv "PRIVMSG $chan : Ala ElRahib Wa ElSaa, $nick." }                 ;Arabic 
+n68=on 1:TEXT:Terima kasih banyak-banyak* Tom*:#:{ putserv "PRIVMSG $chan : Sama-sama, $nick." }         ;Bahasa M 
+n69=on 1:TEXT:Terima kasih banyak* Tom*:#:{ putserv "PRIVMSG $chan : Terima kasih kembali, $nick." }     ;Bahasa I 
+n70=on 1:TEXT:Terima kasih* Tom*:#:{ putserv "PRIVMSG $chan : $bahasa $+ , $nick." }                     ;Bahasa * 
+n71=on 1:TEXT:Dekuji vam* Tom*:#:{ putserv "PRIVMSG $chan : Prosím, $nick." }                            ;Czech 
+n72=on 1:TEXT:Dêkuji vam* Tom*:#:{ putserv "PRIVMSG $chan : Prosím, $nick." }                            ;Czech 
+n73=on 1:TEXT:Dêkuji vám* Tom*:#:{ putserv "PRIVMSG $chan : Prosím, $nick." }                            ;Czech 
+n74=on 1:TEXT:Dekuji vám* Tom*:#:{ putserv "PRIVMSG $chan : Prosím, $nick." }                            ;Czech 
+n75=on 1:TEXT:De^kuji vám* Tom*:#:{ putserv "PRIVMSG $chan : Prosím, $nick." }                           ;Czech 
+n76=on 1:TEXT:De^kuji vam* Tom*:#:{ putserv "PRIVMSG $chan : Prosím, $nick." }                           ;Czech 
+n77=on 1:TEXT:Takk* Tom*:#:{ putserv "PRIVMSG $chan : Þú ert velkommin, $nick." }                        ;Icelandic 
+n78=on 1:TEXT:Tak* Tom*:#:{ putserv "PRIVMSG $chan : Velbekomme, $nick." }                               ;Danish 
+n79=on 1:TEXT:Thank* Tom*:#:{ putserv "PRIVMSG $chan : No problem, $nick." }                             ;English 
+n80=on 1:TEXT:Dankon* Tom*:#:{ putserv "PRIVMSG $chan : Nedankinde, $nick." }                            ;Esperanto 
+n81=on 1:TEXT:Tänan* Tom*:#:{ putserv "PRIVMSG $chan : Palun, $nick." }                                  ;Estonian 
+n82=on 1:TEXT:Tanan* Tom*:#:{ putserv "PRIVMSG $chan : Palun, $nick." }                                  ;Estonian 
+n83=on 1:TEXT:Kiitos* Tom*:#:{ putserv "PRIVMSG $chan : Eipä kestä $nick." }                             ;Finnish 
+n84=on 1:TEXT:Merci* Tom*:#:{ putserv "PRIVMSG $chan : De rien, $nick." }                                ;French 
+n85=on 1:TEXT:Tankewol* Tom*:#:{ putserv "PRIVMSG $chan : Is wol klear, $nick." }                        ;Frisian 
+n86=on 1:TEXT:Go raibh maith agat* Tom*:#:{ putserv "PRIVMSG $chan : Tá failte romhat, $nick." }         ;Gælic 
+n87=on 1:TEXT:Danke* Tom*:#:{ putserv "PRIVMSG $chan : Bitte schön, $nick." }                            ;German 
+n88=on 1:TEXT:Mahalo* Tom*:#:{ putserv "PRIVMSG $chan : He mea iki, $nick." }                            ;Hawai`ian 
+n89=on 1:TEXT:Toda* Tom*:#:{ putserv "PRIVMSG $chan : Be'vakasha, $nick." }                              ;Hebrew 
+n90=on 1:TEXT:Köszönöm* Tom*:#:{ putserv "PRIVMSG $chan : Szívesen, $nick." }                            ;Hungarian 
+n91=on 1:TEXT:Koszonom* Tom*:#:{ putserv "PRIVMSG $chan : Szívesen, $nick." }                            ;Hungarian 
+n92=on 1:TEXT:Grazie* Tom*:#:{ putserv "PRIVMSG $chan : Prego, $nick." }                                 ;Italian 
+n93=on 1:TEXT:Domo* Tom*:#:{ putserv "PRIVMSG $chan : Douitashimashite, $nick $+ -san. }                    ;Japanese 
+n94=on 1:TEXT:Arigato* Tom*:#:{ putserv "PRIVMSG $chan : Douitashimashite, $nick $+ -san. }                 ;Japanese 
+n95=on 1:TEXT:Kamsahamnida* Tom*:#:{ putserv "PRIVMSG $chan : Chonmane Malsumimnida, $nick." }           ;Korean 
+n96=on 1:TEXT:Kam-sa-ham-ni-da* Tom*:#:{ putserv "PRIVMSG $chan : Chon-man-e Mal-sum-im-ni-da, $nick." } ;Korean 
+n97=on 1:TEXT:Mesi* Tom*:#:/if (%awake == 1 ) { putserv "PRIVMSG $chan : D-anyen, $nick." }                                  ;Carib Creole 
+n98=on 1:TEXT:Mèsi* Tom*:#:/if (%awake == 1 ) { putserv "PRIVMSG $chan : D-anyen, $nick." }                                  ;Carib Creole 
+n99=on 1:TEXT:Dziekuje* Tom*:#:{ putserv "PRIVMSG $chan : Nie, ma za co, prosze,, $nick." }              ;Polish 
+n100=on 1:TEXT:Dzie,kuje,* Tom*:#:{ putserv "PRIVMSG $chan : Nie, ma za co, prosze,, $nick." }            ;Polish 
+n101=on 1:TEXT:Obrigad* Tom*:#:{ putserv "PRIVMSG $chan : De nada, $nick." }                              ;Portugese 
+n102=on 1:TEXT:Spasibo* Tom*:#:{ putserv "PRIVMSG $chan : Plazhowst, $nick." }                            ;Russian 
+n103=on 1:TEXT:Gracias* Tom*:#:{ putserv "PRIVMSG $chan : De nada, $nick." }                              ;Spanish 
+n104=on 1:TEXT:Much* Gracias* Tom*:#:{ putserv "PRIVMSG $chan : De nada, $nick." }                        ;Spanish 
+n105=on 1:TEXT:Tack* Tom*:#:{ putserv "PRIVMSG $chan : Varsågod, $nick." }                                ;Swedish 
+n106=on 1:TEXT:Salamat* Tom*:#:{ putserv "PRIVMSG $chan : Walang anuman, $nick." }                        ;Tagalog 
+n107=on 1:TEXT:Diolch* Tom*:#:{ putserv "PRIVMSG $chan : Croeso, $nick." }                                ;Welsh 
+n108=on 1:TEXT:A dank aych* Tom*:#:/if (%awake == 1 ) { putserv "PRIVMSG $chan : Nishto far vos, $nick." }                    ;Yiddish 
+n109=on 1:TEXT:Hvala* Tom*:#:{ putserv "PRIVMSG $chan : Ljieto, $nick." }                                 ;Yugosl

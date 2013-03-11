@@ -1,0 +1,42 @@
+bind pubm - Terima~kasih banyak-banyak*Tom*   pub_thanks_Bahasa_M
+bind pubm - Terima~kasih banyak*Tom*          pub_thanks_Bahasa_I
+bind pubm - Terima~kasih*Tom*                 pub_thanks_Bahasa
+bind pubm - Dekuji~vam*Tom*                   pub_thanks_Czech
+bind pubm - Dêkuji~vam*Tom*                   pub_thanks_Czech
+bind pubm - Dêkuji~vám*Tom*                   pub_thanks_Czech
+bind pubm - Dekuji~vám*Tom*                   pub_thanks_Czech
+bind pubm - De^kuji~vám*Tom*                  pub_thanks_Czech
+bind pubm - De^kuji~vam*Tom*                  pub_thanks_Czech
+bind pubm - Takk*Tom*                         pub_thanks_Icelandic
+bind pubm - Tak*Tom*                          pub_thanks_Danish
+bind pubm - Thank*Tom*                        pub_thanks_English
+bind pubm - Dankon*Tom*                       pub_thanks_Esperanto
+bind pubm - Tänan*Tom*                        pub_thanks_Estonian
+bind pubm - Tanan*Tom*                        pub_thanks_Estonian
+bind pubm - Kiitos*Tom*                       pub_thanks_Finnish
+bind pubm - Merci*Tom*                        pub_thanks_French
+bind pubm - Tankewol*Tom*                     pub_thanks_Frisian
+bind pubm - Go~raibh~maith~agat*Tom*          pub_thanks_Gælic
+bind pubm - Danke*Tom*                        pub_thanks_German
+bind pubm - Mahalo*Tom*                       pub_thanks_Hawai`ian
+bind pubm - Toda*Tom*                         pub_thanks_Hebrew
+bind pubm - Köszönöm*Tom*                     pub_thanks_Hungarian
+bind pubm - Koszonom*Tom*                     pub_thanks_Hungarian
+bind pubm - Grazie*Tom*                       pub_thanks_Italian
+bind pubm - Domo*Tom*                         pub_thanks_Japanese
+bind pubm - Arigato*Tom*                      pub_thanks_Japanese
+bind pubm - Kamsahamnida*Tom*                 pub_thanks_Korean
+bind pubm - Kam-sa-ham-ni-da*Tom*             pub_thanks_Korean
+bind pubm - Mesi*Tom*                         pub_thanks_Carib Creole
+bind pubm - Mèsi*Tom*                         pub_thanks_Carib Creole
+bind pubm - Dziekuje*Tom*                     pub_thanks_Polish
+bind pubm - Dzie,kuje,*Tom*                   pub_thanks_Polish
+bind pubm - Obrigad*Tom*                      pub_thanks_Portugese
+bind pubm - Spasibo*Tom*                      pub_thanks_Russian
+bind pubm - Gracias*Tom*                      pub_thanks_Spanish
+bind pubm - Much*Gracias* Tom*                pub_thanks_Spanish
+bind pubm - Tack*Tom*                         pub_thanks_Swedish
+bind pubm - Salamat*Tom*                      pub_thanks_Tagalog
+bind pubm - Diolch*Tom*                       pub_thanks_Welsh
+bind pubm - A~dank~aych*Tom*                  pub_thanks_Yiddish
+bind pubm - Hvala*Tom*                        pub_thanks_Yugoslav

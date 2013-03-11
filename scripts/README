@@ -1,0 +1,51 @@
+# README
+# Copyright 2006 by Brendan K Callahan <420420@gmail.com> & David Goodwin <goodwid@gmail.com> 
+#
+# http://creativecommons.org/licenses/by-nc-sa/2.5/legalcode
+# Attribution-NonCommercial-ShareAlike 2.5
+#
+# Problems, questions, accolades, hate mail, etc. should go to <callahan@3whack.org>.
+
+Mike Callahan v1.0
+
+This distribution represents 6 months of work; the first thing to be mentioned is everyone who helped:
+
+Coding:
+AuntieEm (Brendan K Callahan)
+Flaim (David Goodwin)
+
+Data:
+Flaim (David Goodwin)
+AuntieEm (Brendan K Callahan)
+FreeTrav
+CaptJosh
+
+Development Input:
+FreeTrav, CaptJosh, Murrlin, katarin, Snack, tamouse, GoldKnight, JayCoyote, draagen, Exapno, jrasku, thebigspark, nocturne4ever, Necromancer, chintimin, Chrisbert, Warpmind, wildkat, Jubal, ArcMaster, Bearcloud, rain_man, TXraven, Laid, TheCajun, Trina & elfi
+
+Special Mention for the original Mike Callahan:
+Confthulu
+Donovan
+
+And everyone else in #callahans and #Mary'sPlace on irc.undernet.org
+
+
+Mike is a work in progress; continual improvements are being made.  Please make sure you have the latest version by visiting http://3whack.org/mike/ (Forums) and http://3whack.org/mike/source.html (Source files -- including any beta/dev versions available)
+His latest help file can be found at http://3whack.org/mike/help.html and the beta dev help at http://3whack.org/mike/helpbeta.html
+
+There are several other scripts you may wish to download to include with Mike:
+bofh.tcl / phrep_ - irc.quakenet.org
+Bass's Seen script.  v1.4.2c  2/2000 *!bass@*.psu.edu on Undernet.  Email: bass@tclslave.net or bass@mars.age.psu.edu
+Dubya 1.0 Check <http://www.unknown.nu/eggdrop/> for updated versions
+Movie Quotes 1.1 by JimG
+Peak.tcl by KuNgFo0 (www.eggfaq.com)
+userinfo.tcl v1.06 for Eggdrop 1.4.3 and higher Scott G. Taylor -- ButchBub!staylor@mrynet.com
+
+Please be sure to reference all your scripts in the eggdrop.conf
+
+".egt" is simply an extention meaning "EGgdrop Text file"; it was one of the few extensions not in use that I could find. (And something like my 8th choice)
+
+Mike was scripted on a Mandrake (2005 LE & Free) install using KWrite and vi, on a Dell PowerEdge 1550 (Dual 1.133 GHz PIII, 2GB RAM)
+
+And last, but most hearfelt, to Spider Robinson for creating Callahan's and Mike Callahan!
+

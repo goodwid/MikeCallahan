@@ -1,0 +1,529 @@
+[00:22] kat`` (kat@108-88-155-23.lightspeed.frokca.sbcglobal.net) joined #Mary'sPlace.
+[00:22] #mary'splace: mode change '+o kat``' by Thane!~Thane@flaim.net
+[00:23] <kat``> hihi
+[00:23] kat`` (kat@108-88-155-23.lightspeed.frokca.sbcglobal.net) left #Mary'sPlace.
+[00:24] kat`` (kat@108-88-155-23.lightspeed.frokca.sbcglobal.net) joined #Mary'sPlace.
+[00:24] #mary'splace: mode change '+o kat``' by Thane!~Thane@flaim.net
+[00:24] <AuntieEo> re
+[00:24] <kat``> silly me hitt wrong key
+[00:24] <AuntieEo> :0
+[00:25] <kat``> how is you
+[00:30] <AuntieEo> Much better lately
+[00:30] <AuntieEo> About to watch a show, don't know which one yet, was deciding
+[00:31] <kat``> aye
+[00:31] <kat``> job?
+[00:31] <AuntieEo> I wish
+[00:31] <AuntieEo> Gettinga lot more interiews, however
+[00:31] <kat``> good good
+[00:50] <kat``> i hope you get a new one soon
+[03:47] AuntieEn (blueberry@67.42.2.115) joined #Mary'sPlace.
+[03:47] #mary'splace: mode change '+o AuntieEn' by Callahan!~Callahan@173-164-115-43-Oregon.hfc.comcastbusiness.net
+[03:50] <kat``> wb
+[03:54] AuntieEo (~blueberry@gateway.lmudc.net) left irc: Ping timeout: 480 seconds
+[07:15] Topic changed on #Mary'sPlace by kat``!kat@108-88-155-23.lightspeed.frokca.sbcglobal.net: #mary'splace tam, you only sent charger
+[07:21] <kat``> naptime
+[07:21] kat`` (kat@108-88-155-23.lightspeed.frokca.sbcglobal.net) left irc: Quit:  HydraIRC -> http://www.hydrairc.com <- It'll be on slashdot one day...
+[08:04] <tamouse__> oh, well, good to know :)
+[08:04] Topic changed on #Mary'sPlace by tamouse__!tamouse@funkykitty.net: | kat: good to know, will send cable
+[08:05] Action: FreeTrav is reminded that he needs to add "mailbox" functionality to his bot...
+[10:25] nyet (nein@c-71-236-84-58.hsd1.pa.comcast.net) left irc: Ping timeout: 600 seconds
+[10:26] nyet (nein@c-71-236-84-58.hsd1.pa.comcast.net) joined #Mary'sPlace.
+[10:26] nyet (nein@c-71-236-84-58.hsd1.pa.comcast.net) left irc: Excess Flood
+[10:26] nyet (nein@c-71-236-84-58.hsd1.pa.comcast.net) joined #Mary'sPlace.
+[10:26] nyet (nein@c-71-236-84-58.hsd1.pa.comcast.net) left irc: Excess Flood
+[10:26] nyet (nein@c-71-236-84-58.hsd1.pa.comcast.net) joined #Mary'sPlace.
+[10:26] nyet (nein@c-71-236-84-58.hsd1.pa.comcast.net) left irc: Excess Flood
+[10:26] nyet (nein@c-71-236-84-58.hsd1.pa.comcast.net) joined #Mary'sPlace.
+[10:26] nyet (nein@c-71-236-84-58.hsd1.pa.comcast.net) left irc: Excess Flood
+[10:26] nyet (nein@c-71-236-84-58.hsd1.pa.comcast.net) joined #Mary'sPlace.
+[10:26] #mary'splace: mode change '+b *!*@c-71-236-84-58.hsd1.pa.comcast.net' by Onegin!gltweasl@irr.eversible.net
+[10:26] nyet kicked from #Mary'sPlace by Thane: Banned: join flood
+[11:27] <AuntieEn> http://www.katu.com/news/national/Court-to-decide-if-mentally-ill-can-consent-to-sadomasochistic-sex-196684481.html
+[11:28] <AuntieEn> FT: It hsoudl be an omculded module, simply ass it to the end of the script
+[11:28] <AuntieEn> add*
+[11:29] <AuntieEn> Change #load mailbox to load mailbox or some sort
+[11:58] <AuntieEn> installing tcl on sip
+[12:27] #mary'splace: mode change '-b *!*@c-71-236-84-58.hsd1.pa.comcast.net' by Pechorin!giltweasl@65.103.192.59
+[12:27] #mary'splace: mode change '-b *!*@c-71-236-84-58.hsd1.pa.comcast.net' by Thane!~Thane@flaim.net
+[12:31] <AuntieEn> Seriously, can't even ftp OUT from your box?
+[12:33] <AuntieEn> All I get is permission errors with scp
+[12:35] <Flaim> which box?
+[12:36] <AuntieEn> flaim.net
+[12:36] <Flaim> maureen is public-key only auth
+[12:36] <AuntieEn> probably woodrow
+[12:36] <Flaim> or private-key auth, whichever
+[12:36] <AuntieEn> wait, minerva syas the pronpt
+[12:36] <Flaim> flaim.net is minerva, which accepts password-auth'd ssh
+[12:36] <Flaim> no ftp installed tho?
+[12:36] <AuntieEn> Or jsut put Mike's current .tar file in mike@sip.lmudc.net/~/junk
+[12:37] <AuntieEn> I tried to ftp out, lol. no such program
+[12:37] <Flaim> ok, ftp is installed
+[12:37] <AuntieEn> I'm ssh to both sip and minerva
+[12:37] <AuntieEn> And tried scp both ways, without any of you even sufggesting it lol
+[12:37] <AuntieEn> but that failed
+[12:37] <AuntieEn> :)
+[12:37] <Flaim> hehehe
+[12:37] <AuntieEn> callahan@minerva [Sun 10Mar2013] 12:36 ~ 256> ftp open sip.lmudc.net
+[12:37] <AuntieEn> ftp: Command not found.
+[12:38] <AuntieEn> I even did man scp and looked it up, tried form both boxes
+[12:38] <AuntieEn> I'm settingMike up for somethign else, so user name on sip is mike, same pass
+[12:39] <Flaim> run 'rehash'
+[12:40] <Flaim> tcsh caches what's in the path.. if it changes, it needs to re-hash the path
+[12:40] <AuntieEn> well fuck, now I've got to open it on sip, rofl
+[12:40] <Flaim> also, what error were you getting w/ scp?
+[12:42] <AuntieEn> callahan@minerva [Sun 10Mar2013] 12:29 ~ 251> scp ~/Mike.tar.gz mike@sip.lmudc.net:~/Mike.tar.gz
+[12:42] <AuntieEn> mike@sip.lmudc.net's password: 
+[12:42] <AuntieEn> /home/callahan/Mike.tar.gz: Permission denied
+[12:43] <Flaim> huh.
+[12:43] <AuntieEn> SO I really did go out of my way to do this without asking for help, lol
+[12:43] <Flaim> ahh.  permissions error.
+[12:43] <Flaim> solved.
+[12:44] <AuntieEn> Yes
+[12:44] <AuntieEn> callahan@minerva [Sun 10Mar2013] 12:29 ~ 251> scp ~/Mike.tar.gz mike@sip.lmudc.net:~/Mike.tar.gz
+[12:44] <AuntieEn> mike@sip.lmudc.net's password: 
+[12:44] <AuntieEn> /home/callahan/Mike.tar.gz: Permission denied
+[12:44] <AuntieEn> gah
+[12:44] <AuntieEn> anyways, should ahve it now
+[12:45] <AuntieEn> quick question, to which directory should O move that too to untar?  ~/eggdrop1.x.x ?
+[12:47] <Flaim> none.  it'll create 'eggdrop' when you untar it
+[12:47] <Flaim> i generally make tars that pop into a dir
+[12:47] <AuntieEn> I already have eggdrop, adn it's installed to eggdrop<ver>/
+[12:49] <AuntieEn> oh, that's the whole file
+[12:49] <AuntieEn> I jsut need the data/scripts/.conf
+[12:49] <AuntieEn> This is CentOS, can't jsut plop that in
+[12:53] <Flaim> can't just plop what in?
+[12:59] <AuntieEn> It looks like it's not Mike that's tarred, but eggdrop
+[12:59] <AuntieEn> it's got all the help, and .so modules
+[12:59] <AuntieEn> and source
+[13:00] <AuntieEn> eggdrop/eggdrop1.6.17rc1/src/mod/share.mod/help/set/
+[13:00] <AuntieEn> eggdrop/eggdrop1.6.17rc1/src/mod/share.mod/help/set/share.help
+[13:00] <AuntieEn> eggdrop/eggdrop1.6.17rc1/src/mod/share.mod/help/share.help
+[13:00] <AuntieEn> eggdrop/eggdrop1.6.17rc1/src/mod/share.mod/modinfo
+[13:00] <AuntieEn> eggdrop/eggdrop1.6.17rc1/src/mod/Makefile.in
+[13:00] <AuntieEn> eggdrop/eggdrop1.6.17rc1/src/mod/irc.mod/
+[13:01] <AuntieEn> hate moving files in CLIs.  Cna't use flat models
+[13:01] <AuntieEn> no visible hierarchy
+[13:09] <Flaim> well yeah, that tarball has everything
+[13:09] <Flaim> i guess you can open the tar in 7zip in windows and delete all that crap
+[13:11] <Flaim> in a perfect world, we'd make a git repo for mike, and we could just install eggdrop, and check outa copy on a new box and whoosh
+[13:15] <AuntieEn> sure
+[13:17] <Flaim> dunno how to do that yet.
+[13:18] <AuntieEn> OK, jsut mail that file to me, I'll figure it out
+[13:18] <Flaim> mail what file?
+[13:18] <AuntieEn> mike's tar
+[13:18] <AuntieEn> no way to get tehre form here right now
+[13:18] <Flaim> it's on sip, no?
+[13:18] <AuntieEn> not to windows
+[13:18] <Flaim> you can't..  ok
+[13:18] <AuntieEn> yeah, but I have the same problem getting it for sip that I do from minerva, rofl
+[13:19] <AuntieEn> ftp isn't installed on sip, or it's locke down tight
+[13:19] <Flaim> what's your server name?
+[13:19] <AuntieEn> sip
+[13:19] <Flaim> the windows server
+[13:19] <AuntieEn> .lmudc.net
+[13:19] <AuntieEn> vpn.lmudc.net
+[13:19] <Flaim> what's its local ip?
+[13:19] <AuntieEn> 67.42.2.116
+[13:19] <Flaim> is there a shared folder on there?
+[13:19] <AuntieEn> sip is 117 blueberry (this box) is 115
+[13:19] <AuntieEn> no
+[13:20] <AuntieEn> wait, vpn?  there's a whole shared domain
+[13:20] <AuntieEn> \\lmudc\
+[13:20] <Flaim> gimme a shared folder name on .. ok
+[13:20] <Flaim> and a share name?
+[13:20] <AuntieEn> \\lmudc\admin data \\lmudc\user data
+[13:20] <Flaim> smoe public share on lmudc
+[13:20] <AuntieEn> Ther is no public share
+[13:20] <AuntieEn> hell no
+[13:21] <AuntieEn> it's all locked up via LDAP
+[13:21] <AuntieEn> You've got to ahve a user:pass
+[13:23] <Flaim> ok, make a user/pass for sip to connect to a share so i can mount it
+[13:24] <AuntieEn> one moment
+[13:24] <Flaim> ok
+[13:24] <tamouse__> it's been quite a while since i looked at eggdrop
+[13:25] <tamouse__> is it possible to keep the actual eggdrop installation "clean" (so to speak) and put custom code in another dirtree?
+[13:25] <AuntieEn> could be
+[13:25] <AuntieEn> but oyu'd have to tweak some thigns to point
+[13:25] <AuntieEn> I know I've done it once
+[13:25] <AuntieEn> it creates all kinds of cinfusion :)
+[13:25] <tamouse__> if so, upgrading eggdrop could be separate from custom code, and should be fairly transparent
+[13:26] <AuntieEn> you can upgrade eggdrop easily.
+[13:26] <AuntieEn> and leave data in place
+[13:26] <Flaim> what's the ip for lmudc?
+[13:26] <tamouse__> ok
+[13:26] <AuntieEn> he tarred up data + code compiled on his box.  I seriously dount that'll run on my CentOS box
+[13:26] <AuntieEn> 67.42.2.112
+[13:26] <AuntieEn> But I think you asked the wrogn question
+[13:27] <AuntieEn> because that's the network IP address for lmudc.net
+[13:27] <AuntieEn> 2003 = vpn.lmudc.net == 67.42.2.116'
+[13:27] <AuntieEn> Asterisk == sip.lmudc.net == 67.42.2.117 (CentOS)
+[13:28] <AuntieEn> 118 is gateway.lmudc.net
+[13:28] <AuntieEn> 115 is blueberry, 114 is emerald (Zac's) and 113 is unassigned (I took the tomato router out, was able to config the modem properly)
+[13:29] <Flaim> ok, i emailed the file
+[13:29] <Flaim> we'll fix your network filesharing problems at a later time :)
+[13:30] <Flaim> i installed samba and samba-client on sip
+[13:31] <AuntieEn> np
+[13:31] <AuntieEn> I trust you
+[13:31] <AuntieEn> I've lawasys kept win/nix seperate
+[13:31] <AuntieEn> Remember, when I first started learnign, LDAP was read-only for a long time
+[13:31] <AuntieEn> Could read NTFS< but not write to it.
+[13:32] <Flaim> on my file server at owrk, I do AD-auth for login
+[13:32] <Flaim> it's been a while since i set it up but I could do it again i'm sure
+[13:33] <AuntieEn> I jsut want them to work likethey're not on different OSes
+[13:33] <AuntieEn> network shouldn't know fuck-all about waht OS stores the data
+[13:34] <AuntieEn> different layer
+[13:34] <tamouse__> network don't care
+[13:34] <tamouse__> network don't give a damn
+[13:36] <AuntieEn> Jsut saying I shouldn't need to know if it's nix or win to mount a network drive
+[13:36] <AuntieEn> Nro shoudl my computer have to know.
+[13:36] <AuntieEn> ISn't this why we have fucking APIs?
+[13:37] <tamouse__> mounting a drive is something well below the api level
+[13:37] <tamouse__> it's in the kernel
+[13:37] <AuntieEn> I'm saying htat's hwo it shoudl work
+[13:37] <tamouse__> yup, that is how it should work
+[13:37] <AuntieEn> I don't suppose nix can handle .rar files?
+[13:37] <tamouse__> there are tools which will, sure
+[13:38] <tamouse__> tar doesn't
+[13:38] <AuntieEn> I did  atore, not a compress
+[13:38] <AuntieEn> I walwsys thaouhgt rar was windows tar
+[13:38] <tamouse__> 7z handles them
+[13:38] <Flaim> there are linux tools for rar
+[13:38] <tamouse__> noooo....
+[13:39] <AuntieEn> 7z always fucking acts weird
+[13:40] <Flaim> winrar handles tarballs too, so it goes both ways
+[13:40] <tamouse__> there's also rar/unrar on 'nix
+[13:40] <tamouse__> tar only handles tar files
+[13:40] <tamouse__> no other kinds of collections
+[13:41] <AuntieEn> Yes, but winrar won't make a .tar
+[13:41] <AuntieEn> so you're getting a stored .rar
+[13:41] <AuntieEn> no compression
+[13:42] <AuntieEn> wtf wont' google let you send a god damned .rar?
+[13:42] <tamouse__> can you use dropbox instead?
+[13:43] <AuntieEn> No, I'm jsut going tocreate an extension for google: .jlmfsi
+[13:43] <AuntieEn> Just Let Me Fuckign Send It
+[13:43] <tamouse__> got that in one :)
+[13:44] <AuntieEn> of JFSIG
+[13:44] <AuntieEn> Just Fucking (sen it (ggoole)
+[13:44] <tamouse__> .FUGSIN
+[13:44] <AuntieEn> Friednly Uniform Google Sending Information Node
+[13:44] <tamouse__> or that :)
+[13:44] <AuntieEn> I was thinking like FUGLY
+[13:45] <tamouse__> fuck you google, send it now
+[13:45] <AuntieEn> hehehe
+[13:45] <AuntieEn> Anways, flaim, taht file is there
+[13:45] <AuntieEn> BNow I ahve to go unfuck all the 8 diff eggdrop dir
+[13:49] <AuntieEn> sip:~/eggdrop/eggdrop1.6.21
+[13:50] <AuntieEn> Taht's where mike's files shoudl go, i.e., any fiels w/o dir shold end up there, taht's where eggdrop.conf lives
+[13:55] <Flaim> ok, on sip, cd to /mnt/lmudc
+[13:55] <Flaim> :)
+[13:57] <Flaim> howto: mount -t cifs //lmudc/User\ data -ouser=<username> 
+[13:57] <Flaim> then type in password.
+[13:57] <AuntieEn> esqacpe spaces?
+[13:58] <Flaim> yes.
+[13:58] <AuntieEn> perfect
+[13:58] <AuntieEn> I can jsut cp now, correct?
+[13:58] <Flaim> yes.
+[13:58] <Flaim> cp, mv, whatever
+[13:58] <AuntieEn> jsut checking :0
+[14:05] <Flaim> btw, winbind is the tool to do AD auth
+[14:05] <AuntieEn> I'llprobably ahve to be reminded a few times :)
+[14:09] <Flaim> lol
+[14:14] <AuntieEn> sip:~/eggdrop/eggdrop1.6.21
+[14:14] <AuntieEn> $ cp /mnt/lmudc/eggdrop1.6.21/*.* *.*
+[14:14] <AuntieEn> cp: target `Mike.tar' is not a directory
+[14:14] <AuntieEn> sip:~/eggdrop/eggdrop1.6.21
+[14:14] <AuntieEn> $ ls
+[14:14] <AuntieEn> aclocal.m4    config.log     disabled_modules  language     misc     THANKS
+[14:14] <AuntieEn> AUTHORS       config.status  doc               logs         NEWS
+[14:14] <AuntieEn> ChangeLog     configure      eggdrop.conf      lush.h       README
+[14:14] <AuntieEn> config.cache  configure.ac   FEATURES          Makefile     scripts
+[14:14] <AuntieEn> config.h      CONTENTS       help              Makefile.in  src
+[14:14] <Thane> Dude, stfu already...
+[14:14] <AuntieEn> config.h.in   COPYING        INSTALL           Mike.tar     text
+[14:15] <AuntieEn> Mike.tar is in the destination directory, why is that doing anythign to this?
+[14:15] <AuntieEn> It's not in the source dir
+[14:15] <Flaim> cp -r
+[14:15] <AuntieEn> sip:~/eggdrop/eggdrop1.6.21
+[14:15] <AuntieEn> $ cp -r /mnt/lmudc/eggdrop1.6.21/*.* *.*
+[14:15] <AuntieEn> cp: target `Mike.tar' is not a directory
+[14:15] <AuntieEn> sip:~/eggdrop/eggdrop1.6.21
+[14:16] <AuntieEn> yeah, its' bitching abotu files in the directory I'm copying to, wtfhell?
+[14:21] <tamouse__> the last thing needs to be a directory
+[14:22] <tamouse__> you're telling it to copy all the files that match /mnt/lmudc/eggdrop1.6.21 AND all the files that match *.* in the current working direcotry, to the LAST file that matches *.* in the current working directory
+[14:22] <AuntieEn> yeah, fixed taht
+[14:26] nyet (nein@c-71-236-84-58.hsd1.pa.comcast.net) joined #Mary'sPlace.
+[14:26] nyet (nein@c-71-236-84-58.hsd1.pa.comcast.net) left irc: Excess Flood
+[14:26] nyet (nein@c-71-236-84-58.hsd1.pa.comcast.net) joined #Mary'sPlace.
+[14:26] nyet (nein@c-71-236-84-58.hsd1.pa.comcast.net) left irc: Excess Flood
+[14:27] nyet (nein@c-71-236-84-58.hsd1.pa.comcast.net) joined #Mary'sPlace.
+[14:27] nyet (nein@c-71-236-84-58.hsd1.pa.comcast.net) left irc: Excess Flood
+[14:27] nyet (nein@c-71-236-84-58.hsd1.pa.comcast.net) joined #Mary'sPlace.
+[14:27] nyet (nein@c-71-236-84-58.hsd1.pa.comcast.net) left irc: Excess Flood
+[14:27] nyet (nein@c-71-236-84-58.hsd1.pa.comcast.net) joined #Mary'sPlace.
+[14:27] #mary'splace: mode change '+b *!*@c-71-236-84-58.hsd1.pa.comcast.net' by Onegin!gltweasl@irr.eversible.net
+[14:27] nyet kicked from #Mary'sPlace by Oblomov: Banned: join flood
+[14:33] <AuntieEn> Hrrrm, so I removed all of it,and jsut untarred your files
+[14:33] <AuntieEn> Eggdrop v1.6.17+RC1 (C) 1997 Robey Pointer (C) 2004 Eggheads
+[14:33] <AuntieEn> [14:33] --- Loading eggdrop v1.6.17+RC1 (Sun Mar 10 2013)
+[14:33] <AuntieEn> [14:33] Listening at telnet port 42000 (users).
+[14:33] <AuntieEn> [14:33] Listening at telnet port 4200 (bots).
+[14:33] <AuntieEn> [14:33] Can't load modules dns: /usr/lib/eggdrop/modules/dns.so: cannot open shared object file: No such file or directory
+[14:33] <AuntieEn> [14:33] Can't load modules uptime: /usr/lib/eggdrop/modules/uptime.so: cannot open shared object file: No such file or directory
+[14:33] <AuntieEn> [14:33] Can't load modules channels: /usr/lib/eggdrop/modules/channels.so: cannot open shared object file: No such file or directory
+[14:33] <AuntieEn> [14:33] Tcl error in file 'eggdrop.conf':
+[14:33] <Flaim> ok, hang on
+[14:34] <Flaim> ok where's the eggdrop build?
+[14:34] <AuntieEn> I did mod the .conf file for quakenet
+[14:34] <AuntieEn> and let it know its IP and hostname
+[14:35] <Flaim> need to change the 'set mod-path' line
+[14:35] <Flaim> point it to the right modules directory
+[14:35] <AuntieEn> which is what in your isntall?
+[14:36] <AuntieEn> Are oyu in .conf?  got a swap error
+[14:36] <Flaim> not anymore. heh
+[14:36] <Flaim> my system has eggdrop installed for the system
+[14:37] <AuntieEn> yeah, I figured when I saw /usr/lib
+[14:37] <AuntieEn> I jsut didn't knwo the easiest way to correct that
+[14:42] <Flaim> just change it to point to where the libs are.
+[14:43] <AuntieEn> There aren't.
+[14:43] <AuntieEn> I wiped the whole thng, and dropped your whole file in there
+[14:43] <Flaim> oh.  ok, standby
+[14:44] <Flaim> huh.  centos has no eggdrop package
+[14:49] <AuntieEn> I jsut did configure, make, make isntall make clean
+[14:49] <AuntieEn> yeah, tried yum for that, rof
+[14:50] <AuntieEn> taht is how I got gcc and tcl though
+[14:50] <AuntieEn> took a stab at "yum install gcc" and "yum install tcl-something"
+[14:53] <AuntieEn> But how do I do that for the system, rather than a user?
+[14:55] <Flaim> hang on
+[14:57] <AuntieEn> Somethign tells me doing it as root may sound like a good idea at the time, soething also tells me that could be a huge mistake, jsut not as big as chmod -r pixel
+[14:57] <AuntieEn> chown, rather
+[15:00] <Flaim> rofl
+[15:01] <Flaim> running
+[15:03] <Flaim> ok, it's joined #pro-unit
+[15:04] <Flaim> i'm assuming you can take it from here?
+[15:04] <AuntieEn> yup
+[15:04] <AuntieEn> did you run it -m?
+[15:05] <Flaim> no?
+[15:05] <AuntieEn> MUST do that first time
+[15:05] <Flaim> it wasn't the first time
+[15:06] <Flaim> since it was from the tarball
+[15:06] <AuntieEn> It better be
+[15:06] <AuntieEn> AuntieEmd oesn't exist as owner
+[15:06] <AuntieEn> not my nick over there, using in-game nick
+[15:06] <Flaim> hmmm
+[15:06] <Flaim> ok
+[15:06] <Flaim> well i gotta go clean house.. 
+[15:06] <AuntieEn> crap, lemme fix this
+[15:07] <Flaim> worst case, you can nuke the users file and re-build it
+[15:07] <Flaim> but it runs :)
+[15:07] <AuntieEn> yeah, have to
+[15:09] <Flaim> kk
+[15:10] <Flaim> afk
+[15:11] <AuntieEn> Ok, jsut did a rm ~/eggdrop/Callahan.*
+[15:11] <AuntieEn> ran it as -m, all is well :0
+[15:33] <Flaim> kewl
+[15:33] <AuntieEn> Sad day
+[15:33] <Flaim> ?
+[15:33] <AuntieEn> Someone on quakenet was already using the nick Callahan
+[15:33] <AuntieEn> talked for a bit
+[15:34] <AuntieEn> But apparently, eh's the type to actually disconnect when he's done
+[15:34] <AuntieEn> So he's already lost the nick, rofl
+[15:34] <Flaim> bummer.
+[15:34] <AuntieEn> I'm sure I'll be hearing about that soon enough "Say, you rbot took my nick"
+[15:35] <Flaim> heh, likely, unless you change the bot's nick
+[15:36] <AuntieEn> Yeah, fat fucking chance
+[15:36] <AuntieEn> I'd sooner marry Ismoon
+[15:48] <AuntieEn> Issues:
+[15:48] <AuntieEn> [2013-03-10 15:44:02] NOTICE[3243]: chan_sip.c:13239 sip_reg_timeout:    -- Registration for 'afeather-user@67.40.255.172' timed out, trying again (Attempt #4937) 
+[15:48] <AuntieEn> lol
+[15:50] <AuntieEn> I jsut disabled his trunk, will enable once it's running again :)
+[15:53] <Flaim> heh
+[16:15] <AuntieEn> Now.
+[16:15] <AuntieEn> Can we clone that install?
+[16:15] <AuntieEn> I mean, if I made user callahan
+[16:15] <AuntieEn> cp'd it all
+[16:15] <AuntieEn> I coudl run undernet's aain, right?
+[16:17] <AuntieEn> Could, not necessarily *will*, lol.
+[16:17] <AuntieEn> I'd be an absebtee landlord, much like Conf was for 5 years.  I wasn't too thrille about how that worked, so it's jsut better is someone tehre runs him
+[16:27] #mary'splace: mode change '-b *!*@c-71-236-84-58.hsd1.pa.comcast.net' by Rudin!~Rudin@69.20.192.85
+[17:07] <tamouse__> it should be very simple to clone mike and keep separate config and data files. This is one very nice feature git repos provide -- you don't include the files that will be custom per network in the repo, and you can simply pull whatever other changes in each install really easily
+[17:07] <AuntieEn> yeah, taht'd be nice to setup for Mike and Pix
+[17:07] <AuntieEn> Maybe after a semester or two, adn I've actually learned about it :)
+[17:07] <tamouse__> nodnod
+[17:13] <tamouse__> i'm hard-over on using version control systems. i keep everything i do in them, even one-shot personal things
+[17:14] <tamouse__> i have a private repo for letters
+[17:15] <tamouse__> probably no one needs to go to the extreme i do
+[17:15] <AuntieEn> rofl
+[17:15] <tamouse__> it's just a furiously hard habit
+[17:15] <tamouse__> not one i'm inclined to change
+[17:15] <AuntieEn> yeah, I have plety of those
+[17:15] <AuntieEn> it's hard-coding patches to ADHD, lol
+[17:15] kat`` (kat@108.88.155.23) joined #Mary'sPlace.
+[17:16] <AuntieEn> heya kat :)
+[17:16] <tamouse__> nod
+[17:16] <kat``> heya bren
+[17:16] <kat``> hey tam
+[17:16] <tamouse__> i don't have ADHD, but i have enough other stuff 
+[17:16] <tamouse__> hi kat
+[17:16] <AuntieEn> Exactly.
+[17:16] <kat``> i also found manual online as a pdf :)
+[17:16] <tamouse__> awesome. i figured they'd be available
+[17:16] <kat``> yupyup
+[17:16] <tamouse__> i still haven't found my nikon cable, but at least i know i didn't mail it
+[17:17] <kat``> i am still just playing with it trying to get the right lighting at home to get good pics of gingersnap
+[17:17] <kat``> yupyup
+[17:17] <tamouse__> i really only need it when i'm traveling with the camera, though
+[17:18] <kat``> i hope you find it
+[17:18] <tamouse__> i will, eventually :>
+[17:18] <tamouse__> i don't currently have a traveling pc though, either
+[17:18] <kat``> am also going to get a better case the one i am using now just fits the camera
+[17:18] Action: kat`` nods
+[17:18] <kat``> i don't either my old ibm thinkpad is pretty much dead
+[17:18] <tamouse__> i can't make any recs on cases; i never use them
+[17:19] <kat``> really?
+[17:19] <tamouse__> newp
+[17:19] <kat``> how come?
+[17:19] <tamouse__> i find them more of a pain than anything
+[17:19] <tamouse__> i have a big bag for the nikon, which makes it easy to stow in a trunk
+[17:20] <tamouse__> but when i'm out using it, i just carry it
+[17:20] <kat``> true they can be but i do plan on having the camera on me most of the time, so a small case would be good to keep my purse/backpack from eating it
+[17:20] <tamouse__> i used to just toss it in my purse
+[17:20] <kat``> aye, you were worried bout the back getting sctratched?
+[17:21] <tamouse__> not particularly
+[17:21] <kat``> ok
+[17:21] <tamouse__> idk
+[17:21] <kat``> i am hoping to go to oregon in may
+[17:21] <tamouse__> i've never been worried about that sort of thing, really
+[17:21] <kat``> i tend to be a worrywort
+[17:21] <tamouse__> the one concession to that i do make is a ND filter on my regular camera lenses
+[17:22] Action: kat`` nodnods
+[17:22] <kat``> my dad always used at least a uv one on his
+[17:22] <tamouse__> oh, yeah, i meant UV
+[17:23] <tamouse__> and i do use lens caps, fore and aft
+[17:24] <kat``> ya to protect the lens
+[17:24] <kat``> i think my dad is letting my niece use his stuff, she's got a good eye for it
+[17:24] <tamouse__> cool
+[17:25] <kat``> ya she's a good kid, inpite of her mother's screwups
+[17:27] <kat``> i almost got a good closeup on kitty until she decided to put nose on lens
+[17:51] <Flaim> re
+[17:52] <kat``> hey flaim
+[17:57] <tamouse__> hi flaim
+[17:58] <Flaim> tam: where does git put things?
+[17:59] <tamouse__> git is a distributed system
+[17:59] <tamouse__> you have your own local repo
+[17:59] <Flaim> ok.. 
+[18:00] <tamouse__> others can clone your repo and you can update each other
+[18:00] <tamouse__> there is often a remote depot, which is what github, gitorious, bitbucket and others provide
+[18:00] <Flaim> ok
+[18:00] <tamouse__> or you can have your own remote private ones as well
+[18:00] <Flaim> yeah
+[18:01] <Flaim> i'd prolly rather do that
+[18:01] <tamouse__> no repository is more "real" than any other, except by agreed upon convention
+[18:01] <Flaim> right
+[18:01] <tamouse__> so i have a whole bunch of private repos on my vps
+[18:01] <tamouse__> and access them via ssh
+[18:02] <tamouse__> like so: git@tamaratemple.com:repos/<reponame>
+[18:02] <Flaim> ahhh
+[18:02] <Flaim> so is that a user named git?
+[18:02] <tamouse__> and since it's ssh, it's smart enough to use stored public keys
+[18:02] <tamouse__> yes
+[18:03] <Flaim> right
+[18:03] <tamouse__> merely a convention
+[18:03] <tamouse__> can be anything
+[18:03] <Flaim> sure
+[18:03] <tamouse__> i like git a lot, but there are others: mercurial (hg), bazaar, etc
+[18:03] <Flaim> sure
+[18:04] <Flaim> git seems cool
+[18:04] <tamouse__> i find them *way* lots easier than cvs or subversion
+[18:04] <Flaim> i like the lack of centralized server
+[18:04] <Flaim> yeah i never could grok subversion
+[18:04] <Flaim> so if i was gonna make a repo of mike, how would i go about that?
+[18:05] <tamouse__> first thing, go into mike's code directory, type 'git init .
+[18:05] <tamouse__> '
+[18:05] <tamouse__> oh, well, maybe install git first ...
+[18:06] <Flaim> hehe did that
+[18:06] <tamouse__> second thing, create a .gitignore file in that directory, and put in any files you DON'T want in the repo
+[18:07] <tamouse__> it can be whole directories, like: 'temp/' for example
+[18:07] <tamouse__> would keep all files that might end up in temp/ from being added to the repo
+[18:07] <Flaim> oh cool
+[18:07] <Flaim> yeah
+[18:07] <tamouse__> a well-tuned .gitignore file is crucial
+[18:08] <Flaim> sure
+[18:08] <tamouse__> because then all you do is 'git add --all -v' to tell git which files to track
+[18:08] <tamouse__> and 'git status' iz ur frenz
+[18:08] <tamouse__> it will tell you what files are tracked, untracked, staged for commit, etc
+[18:09] <tamouse__> including what branch you might be on
+[18:09] <Flaim> should I assume that git ignores . files?
+[18:09] <tamouse__> the trunk is called 'master' by convention
+[18:09] <Flaim> kk
+[18:09] <tamouse__> nope
+[18:09] <tamouse__> nope nope nope
+[18:09] <Flaim> oh. ok.
+[18:09] <tamouse__> because that .gitignore file should definitely be included in your repo
+[18:10] <tamouse__> i have stock .gitignore that contains '.DS_Store' (fucking mac-ism), '.localized' (another FM), '*~' (emacs/vim backup files) and so on
+[18:11] <tamouse__> i typically also ignore archives (tar, tgz, zip, bz2, etc)
+[18:11] <Flaim> right.
+[18:11] <tamouse__> .gitignore does shell wild cards
+[18:11] Action: kat`` is confuzzled
+[18:11] <tamouse__> let me shoot you my standard .gitignore
+[18:13] <tamouse__> it has more in it than you'll typically need, but it's a good example, i think
+[18:13] <tamouse__> should be incoming in e-mail
+[18:13] <tamouse__> whatup, kat?
+[18:13] <Flaim> cool, that'll be a good start
+[18:13] <kat``> is git a mac thing?
+[18:13] <tamouse__> nope
+[18:13] <tamouse__> it's way cross platform
+[18:14] <tamouse__> linux, bsd, mac, winderz, ios, android
+[18:14] <tamouse__> chrom
+[18:14] <tamouse__> git is how the linux kernel is managed
+[18:15] <tamouse__> flaim, after you've run git add --all -v, then you need to make the commit: git commit -m <commit msg>
+[18:15] <tamouse__> that's all you need for keeping a local repo
+[18:16] <tamouse__> snapping a branch for starting a new chunk of development is easie-peasie
+[18:16] <tamouse__> git checkout -b <newbranchname>
+[18:17] <tamouse__> and when you're done and tested and everything is great: git checkout master ; git merge <newbranchname>
+[18:17] <Flaim> kk
+[18:17] <kat``> hmms
+[18:17] <tamouse__> if there are any conflicts, it will tell you, and mark them in the appropriate files
+[18:17] <Flaim> nice
+[18:18] <tamouse__> here's how my workflow goes:
+[18:18] <tamouse__> 1. snap a new branch to start some work
+[18:18] <tamouse__> 2. work in the branch, coding, testing, debuging, until i 'm happy with it
+[18:18] <tamouse__> 3. merge branch into develop
+[18:19] <tamouse__> 4. push up to remote depot
+[18:19] <tamouse__> 5. pull into staging area (assuming this is a web site)
+[18:19] <tamouse__> 6. test in staging
+[18:20] <tamouse__> 7. if problems, go back the development branch and fix things, test, and promote through master to remote
+[18:20] Action: kat`` nods
+[18:20] <tamouse__> 8. when all is shiny, pull into production
+[18:20] <tamouse__> 9. delete working branch
+[18:20] <kat``> so it's not a backup system?
+[18:20] <tamouse__> that's what i do for my personal stuff
+[18:21] <tamouse__> not really
+[18:21] <tamouse__> but it actually is a way to keep things backed up in a way that works for development
+[18:21] <kat``> aye
+[18:21] <tamouse__> i was saying previously, i use it for everything i create
+[18:21] <tamouse__> but i don't use it to back up everything on my system
+[18:22] <tamouse__> and i don't use it to backup media
+[18:22] <tamouse__> if i'm making graphics for something in a web site, i will include those in the repo
+[18:22] <tamouse__> but not photographs, music, or video
+[18:23] <tamouse__> that would be way too heavy on the I/O
+[18:23] <tamouse__> and there are much better means for those huge files
+[18:23] Action: kat`` nodnods
+[18:24] <kat``> do you know is windows media audio files can be converted to mp3?
+[18:24] <tamouse__> i also use it, forex, to keep my /etc/ under control
+[18:24] <tamouse__> and even my home dir dotfiles
+[18:24] <tamouse__> oh sure
+[18:24] <tamouse__> unless there's drm involved, then i'm not sure
+[18:24] Action: kat`` nods
+[18:24] <tamouse__> ffmpeg though will convert just about anything
+[18:25] <kat``> i'll have to get it
+[18:25] <tamouse__> the swiss army knife of multimedia
+[18:25] <kat``> i have a bunch on my external hd
+[18:25] <tamouse__> yeah
+[18:25] <tamouse__> it's installable via apt
+[18:25] <kat``> i also get the lovely task of dupe checking
+[18:25] <tamouse__> look for something called fslint
+[18:26] <tamouse__> it ferrets out dupe files
+[18:26] <kat``> oooh i will
+[18:27] <kat``> when friend bob sent me my external drive he copied most of my tunes and at times same exact file is in multiple folders soooo
+[18:27] <Flaim> brendan, does mike need the .rgt, or does he generate those on the fly?
+[18:29] <Flaim> mike, shit
