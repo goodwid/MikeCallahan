@@ -1,38 +1,38 @@
-#4v: eggdrop v1.6.19 -- Callahan -- written Sat Mar  9 23:00:00 2013
+#4v: eggdrop v1.6.20 -- Callahan -- written Wed Feb 12 23:00:00 2014
 oblomov    - b                       
-! #mary'splace         1362572245 alo        
+! #mary'splace         1363242259 alo        
 --HOSTS *!zimmer@afeather.net
---LASTON 1362572245 #Mary'sPlace
---XTRA lastleft splt
+--XTRA lastleft part
 --XTRA created 1356634755
+--LASTON 1363242259 #Mary'sPlace
 --BOTADDR :3333/3333
 onegin     - b                       
-! #mary'splace         1361302162 alo        
+! #mary'splace         1363242281 alo        
 --HOSTS *!gltweasl@irr.eversible.net
---LASTON 1361302162 #Mary'sPlace
---XTRA lastleft splt
+--XTRA lastleft part
 --XTRA created 1356634760
+--LASTON 1363242281 #Mary'sPlace
 --BOTADDR :3333/3333
 pechorin   - b                       
-! #mary'splace         1362572245 alo        
+! #mary'splace         1363242233 alo        
 --HOSTS *!giltweasl@65.103.192.59
---LASTON 1362572245 #Mary'sPlace
---XTRA lastleft splt
+--XTRA lastleft part
 --XTRA created 1356634768
+--LASTON 1363242233 #Mary'sPlace
 --BOTADDR :3333/3333
 rudin      - b                       
-! #mary'splace         1362572245 alo        
+! #mary'splace         1363242299 alo        
 --HOSTS *!Rudin@69.20.192.85
---LASTON 1362572245 #Mary'sPlace
---XTRA lastleft splt
+--XTRA lastleft part
 --XTRA created 1356634743
+--LASTON 1363242299 #Mary'sPlace
 --BOTADDR :3333/3333
 selkirk    - b                       
-! #mary'splace         1362473209 alo        
+! #mary'splace         1363242364 alo        
 --HOSTS *!Selkirk@flaim.net
---XTRA lastleft quit: Read error: Connection reset by peer
+--XTRA lastleft quit: Quit: Giltweasl
 --XTRA created 1356634723
---LASTON 1362473209 #Mary'sPlace
+--LASTON 1363242364 #Mary'sPlace
 --BOTADDR :3333/3333
 Solace     - ablo                    
 --HOSTS *!auntieem@209.134.142.*
@@ -46,8 +46,8 @@ Thane      - ablo
 --BOTFL s
 --HOSTS *!*thane@flaim.net
 --HOSTS *!*Thane@173.164.115.4*
---LASTON 1362572245 #Mary'sPlace
---XTRA lastleft splt
+--LASTON 1391599935 #traveller
+--XTRA lastleft quit: Ping timeout: 606 seconds
 --XTRA TAPED 0
 --XTRA USUAL a fresh UPS battery
 --XTRA TAGLINE a smartass bot whose only purpose is to hand out ops.
@@ -87,7 +87,10 @@ AuntieEm   - fgjlmnoptxCQT
 --HOSTS *!*ueberry@*.leapwireless.net
 --HOSTS *!*ueberry@*.qwest.net
 --HOSTS *!*ueberry@67.42.2.*
---XTRA lastleft quit: Ping timeout: 600 seconds
+--HOSTS *!blueberry@*.lmudc.net
+--HOSTS *!CT1006@*.lmudc.net
+--HOSTS *!*raspberry@*.or.comcast.net
+--XTRA lastleft quit: Quit: Leaving
 --XTRA TAPED 0
 --XTRA GENDER M
 --XTRA TAGLINE the Mayor of There
@@ -99,16 +102,17 @@ AuntieEm   - fgjlmnoptxCQT
 --XTRA LOCATIONID CAXX0318
 --XTRA ZIPCODE 55117
 --XTRA USUAL a Gin & Chronic with a twist of Irony
---LASTON 1362850093 #callahans
+--LASTON 1391456698 #callahans
 --PASS +T1ykq13Ct8H1
---CONSOLE #callahans mpjkcobxs - 0 0 0
+--CONSOLE #Mary'sPlace mpjkcobxs - 0 0 0
 Flaim      - fgjlmnoptxCQT           
 --HOSTS *!*@flaim.users.undernet.org
 --HOSTS *!*goodwid@*
 --HOSTS *!*flaim@*
 --HOSTS *!*goodwid@afeather.net
---LASTON 1362572245 #Mary'sPlace
+--LASTON 1392093139 #Mary'sPlace
 --XTRA lastleft splt
+--XTRA TAPED 0
 --XTRA GENDER M
 --XTRA created 1131563956
 --XTRA SMOKER 2
@@ -117,7 +121,6 @@ Flaim      - fgjlmnoptxCQT
 --XTRA hello ON
 --XTRA ZIPCODE 97217
 --XTRA USUAL a glass of Bushmill's and Bailey's
---XTRA TAPED 0
 --CONSOLE #mary'splace mkcosdw - 1 0 0
 --PASS +vwB4O.BfeQl1
 ^Da5id^    - afjlmoptx               
@@ -129,8 +132,8 @@ Flaim      - fgjlmnoptxCQT
 --HOSTS *!*dorf@209.98.160.*
 --HOSTS *!*dwaldorf@*mpls.qwest.net
 --HOSTS *!*dorf@*Minnesota.hfc.comcastbusiness.net
---LASTON 1362694878 #Mary'sPlace
---XTRA lastleft quit: Ping timeout: 480 seconds
+--PASS +Ait/11Gkmh41
+--LASTON 1376612051 #callahans
 --XTRA TAPED 1
 --XTRA USUAL a glass of Harviestoun Ola Dubh Special Reserve 16
 --XTRA ZIPCODE 55108
@@ -139,34 +142,16 @@ Flaim      - fgjlmnoptxCQT
 --XTRA SMOKER 0
 --XTRA FAMILIAR Dorf
 --XTRA TAGLINE the crazy bastard in http://www.youtube.com/watch?v=HwDLibRIL3U
---PASS +Ait/11Gkmh41
-FreeTrav   - afjlmoptxQT             
-! #traveller           1356017448 alo        
---HOSTS *!*@216.187.25.22
---HOSTS *!*@jzeitlin.users.undernet.org
---HOSTS *!*me@*
---LASTON 1362867151 #callahans
---XTRA lastleft quit: Read error: Connection reset by peer
---XTRA USUAL Diablü's Bride Price
---XTRA created 1148673375
---XTRA TAGLINE a REMF in New York's Army of Occupation - and proud of it!
---XTRA greeting hands him a tankard of Diablü's Bride Price and a ploughman's lunch for a snack
---XTRA SMOKER 0
---XTRA GENDER M
---XTRA LOCATIONID USNY0991
---XTRA ZIPCODE 00000
---XTRA TAPED 0
---PASS +ShPYb0nmqno1
+--XTRA lastleft quit: Connection closed
 tamouse__  - fjlmoptxCQ              
 --HOSTS *!tamara@*.ca.comcast.net
 --HOSTS *!tamara@*.res.rr.com
 --HOSTS *!tamouse@chicks-rule.com
 --HOSTS *!tamara@76.89.244.*
 --HOSTS *!tamouse@76.89.244.*
---HOSTS *!*@MousieGrrl.users.undernet.org
 --HOSTS *!*tamouse@funkykitty.net
---LASTON 1362572245 #Mary'sPlace
---XTRA lastleft splt
+--HOSTS *!*pontiki@*ghst.net
+--XTRA lastleft quit: "Poets have been mysteriously silent on the subject of cheese." -- G.K.Chesterson
 --XTRA TAPED 0
 --XTRA SMOKER 6
 --XTRA FAMILIAR nezumi
@@ -175,6 +160,7 @@ tamouse__  - fjlmoptxCQ
 --XTRA GENDER F
 --XTRA ZIPCODE 95051
 --XTRA USUAL Diet Dr Pepper
+--LASTON 1381693172 #Mary'sPlace
 --PASS +DDN9Z.THOIl.
 ArcMaster  - lo                      
 --HOSTS *!*cMaster@*.undernet.org
@@ -228,11 +214,11 @@ Cygnata    - loQ
 --HOSTS *!none@71.225.241.*
 --HOSTS *!none@*.pa.comcast.net
 --HOSTS *!none@68.32.232.*
---XTRA lastleft quit: Ping timeout
+--XTRA lastleft part
 --XTRA USUAL hot chocolate with whipped cream and buttershots.
 --XTRA created 1177132671
 --XTRA TAPED 0
---LASTON 1352301800 #callahans
+--LASTON 1391438950 #callahans
 --PASS +/DWU81S/UKo.
 DrWelbyMD  - lo                      
 --HOSTS *!user1@*.mchsi.com
@@ -276,10 +262,10 @@ kuru       - afloQ
 --HOSTS *!nyet@63.231.235.*
 --HOSTS *!*@nyet.users.undernet.org
 --HOSTS *!*nein@*.pa.comcast.net
---XTRA lastleft quit: Ping timeout: 600 seconds
+--XTRA lastleft quit: Read error: No route to host
 --XTRA TAPED 0
 --XTRA created 1177027571
---LASTON 1362862333 #Mary'sPlace
+--LASTON 1392245110 #Mary'sPlace
 --PASS +7Squ50BDy2e1
 ManinBlak  - flopQ                   
 --HOSTS *!*anmcphe@*.seanmcpherson.com
@@ -406,6 +392,23 @@ Verdelici  - lo
 --XTRA TAPED 0
 --XTRA lastleft quit: Read error: Connection reset by peer
 --LASTON 1356049884 #Mary'sPlace
+FreeTrav   - jlpqtxQT                
+! #traveller           1356017448 alo        
+--HOSTS *!*@216.187.25.22
+--HOSTS *!*@jzeitlin.users.undernet.org
+--HOSTS *!*me@*
+--XTRA lastleft quit: Ping timeout: 606 seconds
+--XTRA TAPED 0
+--XTRA USUAL Diablü's Bride Price
+--XTRA created 1148673375
+--XTRA TAGLINE a REMF in New York's Army of Occupation - and proud of it!
+--XTRA greeting hands him a tankard of Diablü's Bride Price and a ploughman's lunch for a snack
+--XTRA SMOKER 0
+--XTRA GENDER M
+--XTRA LOCATIONID USNY0991
+--XTRA ZIPCODE 00000
+--LASTON 1392086587 #Mary'sPlace
+--PASS +ShPYb0nmqno1
 MomoPuppy  - fglv                    
 ! #Callahan's          1345612260 alo        
 ! #Mary'splace         1345612260 -          
@@ -429,15 +432,16 @@ PixelCat   - afl
 --LASTON 1362502437 #callahan's
 --PASS +lXSwU/dYxeq.
 Suarin     - alv                     
-! #legionofdoom        1361403699 lo         
-! #mary'splace         1361403699 lo         
+! #legionofdoom        1381976884 lo         
+! #mary'splace         1381976884 lo         
 ! #traveller           1356820855 alo        
 --HOSTS *!suarin@*.comcastbusiness.net
 --HOSTS *!*suarin@*flaim.net
 --HOSTS *!*suarin@*or.comcast.net
---XTRA lastleft quit: Read error: Operation timed out
+--HOSTS *!*suarin@*afeather.net
+--XTRA lastleft quit: Ping timeout: 305 seconds
 --XTRA created 1308932818
---LASTON 1361403699 #legionofdoom
+--LASTON 1381976884 #callahans
 ]-         - -                       
 ! #traveller           0 alo        
 --XTRA created 1352403784
@@ -732,11 +736,11 @@ Female     - dv
 --XTRA USUAL Virgil's Special Edition Bavarian Nutmeg Root Beer
 --XTRA lastleft quit: Quit
 fredbo     - dv                      
-! #mary'splace         1362572245 alo        
+! #mary'splace         1391569840 alo        
 --HOSTS *!goodwinm@afeather.net
 --HOSTS *!*goodwinm@2602:43:28ff:ae00:*
---LASTON 1362572245 #Mary'sPlace
---XTRA lastleft splt
+--LASTON 1391569840 #Mary'sPlace
+--XTRA lastleft quit: Ping timeout: 240 seconds
 --XTRA created 1321053670
 Giertrud   - dv                      
 --HOSTS *!Giertrud@*.bellsouth.net
@@ -791,15 +795,15 @@ gundo      - -
 HawkWould  - v                       
 --HOSTS *!*wkWould@*.undernet.org
 --HOSTS *!*wkWould@*.ga.comcast.net
---XTRA lastleft part
+--PASS +UnlIr0pt.kb.
+--LASTON 1377551733 #callahans
 --XTRA greeting motions toward a rocking recliner in the corner
 --XTRA USUAL a straight up ice cold Mexican Coca Cola in a glass bottle
 --XTRA created 1223082526
 --XTRA hello ON
 --XTRA TAGLINE {If some people are, and some people aren't what does it matter if one of the 4ares and one of the 4aren'ts swapped places?} (Arlen Specter)
 --XTRA TAPED 0
---LASTON 1362830471 #callahans
---PASS +UnlIr0pt.kb.
+--XTRA lastleft part
 hellcattr  - dv                      
 --HOSTS *!*llcattr@*.undernet.org
 --PASS +k27Sc.IX5T1.
@@ -1021,8 +1025,7 @@ MildBill   - d
 --HOSTS *!mildbill@*.ph.cox.net
 --HOSTS *!mildbill@*.comcastbusiness.net
 --HOSTS *!mildbill@79.133.201.*
---CONSOLE #mary'splace mpjc - 0 0 0
---PASS +cKgWo1qlNCE0
+--XTRA lastleft part
 --XTRA TAPED 0
 --XTRA ZIPCODE 85716
 --XTRA USUAL a shot of Don Eduardo Silver Tequila, with lime and salt
@@ -1033,8 +1036,9 @@ MildBill   - d
 --XTRA GENDER M
 --XTRA created 1242796378
 --XTRA FAMILIAR Bill
---XTRA lastleft splt
---LASTON 1355945906 #callahans
+--LASTON 1363134707 #callahans
+--CONSOLE #mary'splace mpjc - 0 0 0
+--PASS +cKgWo1qlNCE0
 Misto      - dv                      
 --HOSTS *!jdenison@*.insightbb.com
 --PASS +cu2WO1TXwWQ.
@@ -1051,7 +1055,7 @@ Murrlin    - -
 --XTRA hello ON
 --XTRA greeting puts out his cigar for awhile
 --XTRA TAPED 0
---LASTON 1362148462 #callahans
+--LASTON 1379125297 #callahans
 --PASS +/T0z/.cUjJW/
 --INFO *purrs hello*
 necromanc  - -                       
@@ -1111,26 +1115,29 @@ nopy4869   - dv
 --XTRA created 1336963015
 --XTRA USUAL a holy bartender
 --XTRA lastleft part
-Ogredude   - dv                      
+Ogredude   - v                       
+! #mary'splace         1392222929 alo        
 --HOSTS *!ogredude@*.qwest.net
---XTRA lastleft quit: Ping timeout
+--HOSTS *!*quassel@*projectzenonline.com
+--LASTON 1392222929 #callahans
+--XTRA lastleft splt
 --XTRA USUAL a God's Blessing
 --XTRA created 1196376661
---LASTON 1329037592 #callahans
 --PASS +0MUxW/rKb8Y.
 orangejui  - vQ                      
-! #mary'splace         1346017281 alo        
+! #mary'splace         1384645880 alo        
 --HOSTS *!abc@*.optonline.net
 --HOSTS *!*orange@*or.comcast.net
 --HOSTS *!*abc@*hsd1.or.comcast.net
 --HOSTS *!*orange@static*or.frontiernet.net
---LASTON 1348095114 #callahans
+--HOSTS *!*earthoddi@*hsd1.or.comcast.net
+--XTRA lastleft quit: Read error: Operation timed out
 --XTRA FAMILIAR OJ
 --XTRA GENDER F
 --XTRA hello OFF
 --XTRA created 1291779017
 --XTRA TAPED 0
---XTRA lastleft splt
+--LASTON 1384645880 #callahans
 orlm       - dv                      
 ! #callahans           1319867175 -          
 --HOSTS *!orlm@*.mindspring.com
@@ -1156,6 +1163,8 @@ Pernishus  - dv
 --LASTON 1226682532 #callahans
 --PASS +BhLrX/EJ/7S0
 Phantasm   - -                       
+! #mary'splace         1390451995 alo        
+! #callahans           1390451995 alo        
 --HOSTS *!Phantasm@*.sclrns.infoave.net
 --HOSTS *!arsenal@*.sclrns.infoave.net
 --HOSTS *!arsenal@*.pa.comcast.net
@@ -1172,13 +1181,16 @@ Phantasm   - -
 --HOSTS *!IceChat7@12.157.244.*
 --HOSTS *!IceChat7@*.austtx.sbcglobal.net
 --HOSTS *!IceChat7@24.32.153.*
---PASS +noalD0ltrGg.
---LASTON 1355993648 #callahans
+--HOSTS *!IceChat7@12.52.94.*
+--HOSTS *!IceChat7@*.tx.megapath.net
+--HOSTS *!*IceChat9@*.tx.megapath.net
+--XTRA lastleft quit: Quit: I couldn't repair your brakes, so I made your horn louder.
 --XTRA TAPED 0
 --XTRA TAGLINE a spectral ghost. Where are the PKE traps?
 --XTRA created 1180472444
 --XTRA USUAL a Victory Mead, served by a red-headed Valkyrie wearing a maille bikini.
---XTRA lastleft quit: Quit: You're supposed to say "Luke, I am your father" *before* offering to turn her to the Dark Side!
+--LASTON 1390451995 #callahans
+--PASS +noalD0ltrGg.
 PixelCat.  - -                       
 --HOSTS PixelCat
 --XTRA created 1326106812

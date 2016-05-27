@@ -21,7 +21,6 @@ proc public_url_extracter {nick mask hand chan arg} {
 	set nws_flag 0
 	set temp_string ""
 	while {$counter < [llength $arg]} {
-		if {[string compare -length 48 "http://tillamook.3whack.org/~callahan/index.html" [lindex $arg $counter]] == 0} {return}
 		if {[string compare -length 7 "http://" [lindex $arg $counter]] == 0} {set url [lindex $arg $counter]}
 		if {[string compare -nocase -length 3 "nws" [lindex $arg $counter]] == 0} {set nws_flag 1}
 		if {[string compare -nocase -length 4 "nsfw" [lindex $arg $counter]] == 0} {set nws_flag 1}
