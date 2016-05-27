@@ -1,0 +1,319 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii" />
+<title>Mike Callahan's Help Page</title>
+</head>
+<body>
+<a name="top" id="top"><font size="5">Mike Callahan's Help Documentation, v1.0 
+(Release)</font><sup>[0]</sup></a>
+<div align="left">
+<table border="0" width="17%" align="left" cellpadding="0" bgcolor="#44EEEE"
+id="table1">
+<tr>
+<td><a href="http://3whack.org/mike/help.html#Registration">Registration</a></td>
+
+</tr>
+<tr>
+<td><a href="http://3whack.org/mike/help.html#Recognition">Recognition</a></td>
+</tr>
+<tr>
+<td><a href="http://3whack.org/mike/help.html#Data">Data</a></td>
+</tr>
+<tr>
+<td><a href="http://3whack.org/mike/help.html#Quotes">Quotes</a></td>
+</tr>
+<tr>
+<td><a href="http://3whack.org/mike/help.html#Food">Food</a></td>
+</tr>
+
+<tr>
+<td><a href="http://3whack.org/mike/help.html#Actions">Actions</a></td>
+</tr>
+<tr>
+<td><a href="http://3whack.org/mike/help.html#Footnotes">Footnotes</a></td>
+</tr>
+</table>
+</div>
+<p><br />
+&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a name="Registering" id="Registering"></a><span style=
+"text-decoration: overline underline"><font size="4">Meeting Mike for the first 
+time</font></span><br />
+
+For many of the advanced features of Mike, you need to register with him.&nbsp; 
+This is fairly easy to do, provided you follow these instructions exactly.&nbsp; 
+Almost every error is of a <a href=
+"http://en.wikipedia.org/wiki/PEBKAC">PEBKAC</a> nature and can therefore be 
+avoided by <a href="http://en.wikipedia.org/wiki/RTFM">RTFM</a> (This document).</p>
+<p>The first step is to type <font color="#808080"><code>/msg Callahan hello</code></font><br />
+This will introduce you to him, but you're not done yet; there is at least one 
+more command you <b>must</b> utilize, and not doing this ASAP could cause a 
+world of issues, as by not having a password, you will be unable to make any 
+changes later on. This makes for very unhappy users, as based on empirical 
+evidence during the beta stage. We highly recommend a password that you can 
+remember easily, as there is no way to recover it should you forget it.</p>
+
+<p><font color="#808080"><code>/msg Callahan</code></font> <code><font color=
+"#808080">PASS &lt;password&gt;</font></code></p>
+That's all there is!<br />
+<a href="http://3whack.org/mike/help.html#top">Back to top</a>
+<p><a name="Recognition" id="Recognition"></a><span style=
+"text-decoration: overline underline"><font size="4">Teaching Mike your many 
+guises</font></span><br />
+Mike can remember as many <a href=
+"http://en.wikipedia.org/wiki/Hostmask">hostmasks</a> for you as he has disk 
+space available. There are two ways to teach him new hostmasks to recognize you 
+with:<br />
+IDENT: <code><font color="#808080">/msg Callahan IDENT &lt;password&gt;</font></code><br />
+
+This is the recommended way if you do not understand what &quot;hostmask&quot; means, and 
+how to determine it and using wildcards to describe it. This<br />
+will only add the current hostmask you are using.<br />
+ADDHOST: <code><font color="#808080">/msg Callahan ADDHOST &lt;password&gt; &lt;hostmask&gt;</font></code><br />
+This is the more advanced way, as you can add a hostmask that you are not 
+currently using, but know you will use, such as from work, or a shell account. 
+Be careful you don't set too liberal a hostmask; if you use this method, you are 
+responsible for errors arising from it. If you are uncomfortable with this, use 
+IDENT.&nbsp;&nbsp; The hostmask specified must not match the hostmask of another 
+user.</p>
+
+Our highly recommended solution is to register with CService for undernet. You 
+will need to visit <a href="http://cservice.undernet.org/live">Undernet Channel 
+Service Web Interface</a>, and sign up with a username. Avoid free email 
+accounts such as Yahoo!, or hotmail as many have been disabled for use, due to 
+high abuse levels. Once you've registered with CService, and confirmed, you will 
+need to login when you sign on to IRC, using the following command:
+<code><font color="#808080">/msg</font> <font color=
+"#808080">X@channels.undernet.org</font> <font color="#808080">&lt;username&gt; 
+&lt;password&gt;</font></code><br />
+Once this is done, you can hide your true hostmask, with one of this format: 
+&quot;&lt;username&gt;.users.undernet.org&quot;&nbsp; by typing <code><font color=
+"#808080">/mode &lt;your nick&gt; +x</font></code> <i>(Mike's is 
+MikeCallahan.users.undernet.org&nbsp; Please be sure this is the info for the 
+bot you are messaging any passwords to, Mike *can*, and *has* been imitated 
+before)</i> Please note that username does not always mean your nick. The reason 
+this is recommended, is that no matter where you are IRCing from, you can have a 
+consistent hostmask to use. This can be the only hostmask you ever have to tell 
+Mike about, if you do the above steps before saying hello. Many IRC clients have 
+means to do the login and mode commands automatically each time you sign on; 
+check your documentation.<br />
+
+<a href="http://3whack.org/mike/help.html#top">Back to top</a>
+<p><a name="Data" id="Data"></a><span style=
+"text-decoration: overline underline"><font size="4">Teaching Mike your personal 
+information</font></span><br />
+Mike can keep several bits of information about you; currently there are only 
+two, but more will be implemented as time goes on.</p>
+<p>TAGLINE: <code><font color="#808080">/msg Callahan my tagline is &lt;tagline&gt; 
+/msg Callahan What is|What's my tagline?</font></code><br />
+To get this information from Mike, there are two commands to use:
+<i><code><font color="#808080">Mike, who am I?</font></code></i> to retrieve 
+your own and <code><font color="#808080"><i>Mike, who is &lt;nick&gt;</i></font></code><sup>[1]</sup> 
+
+to retrieve other's</p>
+<p>USUAL: <code><font color="#808080">/msg Callahan my usual is &lt;usual&gt; 
+/msg Callahan What is|What's my usual</font></code><br />
+This can be used to set your usual &quot;drink&quot; (it can be anything, not necessarily 
+a beverage). This is used in many situations, such as when someone is at the 
+line and you enter, as well as Mike randomly picking patron's usuals for various 
+uses to use in channel.<br />
+We do have some advice for syntax in setting this. Mike will usually do 
+something of the nature &quot;Callahan serves Foo &lt;foo's usual&gt;&quot;, so we suggest using 
+proper English articles, such as &quot;some&quot;, &quot;a/an&quot;, &quot;the&quot;.&nbsp; If you're Foo, and 
+you set it by typing <code><font color="#808080">/msg Callahan my usual is a 
+heap of lottery money, with a gold bullion chaser</font></code>
+
+it will come out &quot;Callahan serves Foo a heap of lottery money, with a gold 
+bullion chaser.&quot;&nbsp; Also note that Mike added the period; please do not add 
+this yourself, as Mike uses this for other things, and will insert the proper 
+punctuation himself, such as &quot;Callahan serves Foo a heap of lottery money, with 
+a gold bullion chaser, courtesy of Bar&quot;.&nbsp; Note this looks a lot odder if 
+it's &quot;Callahan serves Foo a heap of lottery money, with a gold bullion chaser., 
+courtesy of Bar&quot;<sup>[2]</sup></p>
+<p>There are several ways to use the usual functions:<br />
+<font color="#808080"><i>Mike, usual</i></font> (Give a vague request, get a 
+vague answer)<br />
+
+<font color="#808080"><i>Mike, my usual</i></font> (Can also be followed by 
+anything else such as &quot;please&quot; or &quot;stat&quot;, though he will ignore them)<br />
+<font color="#808080"><i>Mike, give|get me &lt;nicks's&gt; usual</i></font><sup>[1]</sup><br />
+<font color="#808080"><i>Mike, give|get &lt;nick&gt; my usual</i><br />
+
+<i>Mike, give|get &lt;nick&gt; &lt;nick's&gt; usual</i><br />
+<i>Mike, give|get &lt;nick&gt; his|their|her usual</i></font><br />
+Please be sure to use proper possessives, such as &quot;foo's&quot; or &quot;Bars'&quot;<sup>[3]</sup><br />
+
+<a href="http://3whack.org/mike/help.html#top">Back to top</a></p>
+<a name="Quotes" id="Quotes"></a><span style=
+"text-decoration: overline underline"><font size="4">Getting Mike to put words 
+in his mouth</font></span><br />
+Mike can quote a variety of sources from movies, to TV shows, to fictional and 
+non-fictional characters. Here are the current ones:
+<p><i>Mike, amore</i> will prompt Mike to burst into song, punning on the 
+well-known song, Amore.<br />
+<i>Mike, kosh</i> will prompt Mike to quote the character <a href=
+"http://en.wikipedia.org/wiki/Kosh">Kosh Naranek</a>, form the TV series
+<a href="http://en.wikipedia.org/wiki/Babylon_5">Babylon 5</a>.<br />
+
+<i>Mike, Billy</i> will prompt Mike to quote from the movie <a href=
+"http://en.wikipedia.org/wiki/Billy_Madison">Billy Madison</a>.<br />
+<i>Mike, Blazing</i> will prompt Mike to quote from the movie <a href=
+"http://en.wikipedia.org/wiki/Blazing_Saddles">Blazing Saddles</a>.<br />
+<i>Mike, Blues</i> will prompt Mike to quote from the movie <a href=
+"http://en.wikipedia.org/wiki/The_Blues_Brothers_(film)">Blues Brothers</a>
+
+.<br />
+<i>Mike, Shorty</i> will prompt Mike to quote from the movie <a href=
+"http://en.wikipedia.org/wiki/Get_Shorty">Get Shorty</a>.<br />
+<i>Mike, Full</i> will prompt Mike to quote from the movie <a href=
+"http://en.wikipedia.org/wiki/Full_metal_jacket">Full Metal Jacket</a>.<br />
+<i>Mike, Good</i> will prompt Mike to quote from the movie <a href=
+"http://en.wikipedia.org/wiki/Goodfellas">Goodfellas</a>.<br />
+
+<i>Mike, Happy</i> will prompt Mike to quote from the movie <a href=
+"http://en.wikipedia.org/wiki/Happy_Gilmore">Happy Gilmore</a>.<br />
+<i>Mike, Pulp</i> will prompt Mike to quote from the movie <a href=
+"http://en.wikipedia.org/wiki/Pulp_Fiction">Pulp Fiction</a>.<br />
+<i>Mike, Dogs</i> will prompt Mike to quote from the movie <a href=
+"http://en.wikipedia.org/wiki/Reservoir_Dogs">Reservoir Dogs</a>.<br />
+
+<i>Mike, Scarface</i> will prompt Mike to quote from the movie <a href=
+"http://en.wikipedia.org/wiki/Scarface_(1983_film)">Scarface</a>.<br />
+<i>Mike, Scream</i> will prompt Mike to quote from the movie <a href=
+"http://en.wikipedia.org/wiki/Scream_(film)">Scream</a>.<br />
+<i>Mike, Ghost</i> will prompt Mike to quote from the movie <a href=
+"http://en.wikipedia.org/wiki/Ghostbusters">Ghostbusters</a>.<br />
+
+<i>Mike, Futurama</i> will prompt Mike to quote from the TV series <a href=
+"http://en.wikipedia.org/wiki/Futurama">Futurama</a>.<br />
+<i>Mike, family guy</i> will prompt Mike to quote from the TV series <a href=
+"http://en.wikipedia.org/wiki/Family_Guy">Family Guy</a>.<br />
+<i>Mike, dubya</i> will prompt Mike to quote <a href=
+"http://en.wikipedia.org/wiki/George_W_Bush">George W. Bush</a> (43rd President 
+of the USA).<br />
+
+<i>Mike, bofh</i> will prompt Mike to quote the <a href=
+"http://en.wikipedia.org/wiki/BOFH">BOFH</a>.<br />
+<br />
+If you wish to provide either more quotes for the above, or something new, 
+please post in his <a href="http://3whack.org/mike/">forum</a> (Requires 
+registration to post)<sup>[4]</sup><br />
+<a href="http://3whack.org/mike/help.html#top">Back to top</a></p>
+<a name="Food" id="Food"></a><span style=
+"text-decoration: overline underline"><font size="4">Fly, there's a waiter in my 
+soup!</font></span><br />
+
+Mike has an extensive kitchen hidden behind that bar, and it is at your command:<i><br/>
+Mike, 
+breakfast|brunch|lunch|dinner|appetizer</i> Mike will pick from the requested 
+menu, and tell you what he recommends.<br />
+<i>Mike, snack</i> Mike will pick from a newly installed vending machine, and 
+tell you what he recommends, and its price in varying currencies<br />
+<i>Mike, bless me|&lt;nick&gt;</i> Mike serves a God's Blessing.<br />
+You can have Mike serve you his last recommendation by telling him <i>Mike, I'll 
+have|take some|one</i><br />
+
+Mike will remember his last recommendation until someone asks him again. Be 
+daring sometime, and simply ask him for some, and see what turns up!<br />
+<i>Mike, chocolate</i> Mike will pick from a chocolate collection, and give you 
+his find. Note you don't have to specifically ask him for it like the above, 
+after all, have you ever seen a chocolate lover refuse?<br />
+<br />
+If you wish to provide either more items for the above, or something new, please 
+post in his <a href="http://3whack.org/mike/">forum</a> (Requires registration 
+to post)<sup>[4]</sup><br />
+<a href="http://3whack.org/mike/help.html#top">Back to top</a>
+<p><a name="Actions" id="Actions"></a><span style=
+"text-decoration: overline underline"><font size="4">/me speaks louder than 
+words</font></span><br />
+
+Mike has all sorts of activities you can get him to do.</p>
+<i>Mike, tape &lt;nick&gt;&nbsp;</i> Mike will tape a patron to a random location in the 
+bar. He has many different kinds, and in several glaring color schemes.  133,981 
+to be exact, if you combine colors, locations, and types of tape.&nbsp; If you 
+do just colors &amp; types of tape, it's 8,943 combinations of colors &amp; tapes.<sup>[1]</sup><br />
+<i>Mike, hose &lt;nick&gt;&nbsp;</i> Mike will hose said person, in various locations on 
+their body. Usually.<br />
+
+<i>Mike, button</i> Mike will grab a button from his never ending supply, and 
+pin it on you.&nbsp; Currently 494 in the database.<br />
+<i>Mike, fortune</i> Mike will grab a fortune cookie, eat the cookie, and leave 
+you with the fortune.&nbsp; Currently 4,198 in the database.<br />
+<i>Mike, unusual</i> Mike will grab something unusual from under the bar, and 
+give it to you.&nbsp; Currently 39 in the database (Donations welcome!)<sup>[4]</sup><br />
+
+<i>Mike, soapbox</i> Mike will get you a soapbox to stand on.&nbsp; There is no 
+functionality for this like there is for a Toast, nor is there any planned 
+functionality, as this is an informal device.<br />
+<i>Mike, play</i> Mike will start XMMS up and play something randomly. Currently 
+6,881 tracks in the database.<br />
+<a href="http://3whack.org/mike/help.html#top">Back to top</a><br />
+<br />
+<a name="Info" id="Info"></a><span style=
+"text-decoration: overline underline"><font size="4">Inquiring minds want to 
+&quot;Oh, no!&quot;</font></span><br />
+Mike has some features which are more on an informational level, some 
+functional, some not even remotely guaranteed.<br />
+
+<br />
+<i>Mike, when|how long *</i> Mike will attempt to calculate an answer for you. 
+With expected deviation.<br />
+<i>Mike, who *</i> Mike will attempt to say who fits your condition. He's a bit 
+fickle at times, so don't expect consistency.<br />
+<i>Mike, should|would|will|shall|could|can|may|is</i> Mike will attempt to 
+squeeze an answer out of Yoda.<br />
+<i>Mike, FAQ|rules</i> Mike will display the URL for this page. Tom will spew 
+details in channel.<br />
+
+<i>Mike, help</i> Mike will give the URL for this page. NOTE: This is not the 
+same as messaging Mike for help. There will be an online help function, done by 
+message, that will mostly echo what is here.&nbsp; It was planned to be 
+implemented for v1.0, but will be instead included in v1.1<br />
+<i>Mike, seen &lt;nick&gt; | /msg Callahan seen &lt;nick&gt;</i> Mike will tell you via NOTICE when he last saw that person.<br />
+<a href="http://3whack.org/mike/help.html#top">Back to top</a><br />
+<br />
+
+<br />
+<br />
+<hr />
+<p align="center">
+</align="center"><a href="http://3whack.org/mike/">Forums</a> Help <a href="http://3whack.org/mike/helpbeta.html"> Beta Help</a>
+<a href="http://3whack.org/mike/quote.html">Quote Help</a> <a href="http://3whack.org/mike/source.html">Source</a> <a href="http://tillamook.3whack.org/~callahan/index.html">Stats Page</a><br />
+<br />
+
+</p>
+<div align="center">
+	<table border="0" cellpadding="0">
+		<tr>
+			<td><!--Creative Commons License--><a rel="license" href=
+"http://creativecommons.org/licenses/by-nc-sa/2.5/"><img alt=
+"Creative Commons License" style="border-width: 0" src=
+"http://3whack.org/mike/somerights20.png" /></a></td>
+			<td></td>
+			<td><a href="http://validator.w3.org/check?uri=referer"><img
+        src="http://www.w3.org/Icons/valid-xhtml10"
+        alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a></td>
+		</tr>
+	</table>
+</div>
+
+<p align="center">
+This work is licensed under a <a rel="license" href=
+"http://creativecommons.org/licenses/by-nc-sa/2.5/">Creative Commons 
+Attribution-NonCommercial-ShareAlike 2.5 License</a>.
+<!--/Creative Commons License-->
+<!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+       <Work rdf:about="">
+               <license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" />
+       <dc:type rdf:resource="http://purl.org/dc/dcmitype/Text" />
+       </Work>
+       <License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"><permits rdf:resource="http://web.resource.org/cc/Reproduction"/><permits rdf:resource="http://web.resource.org/cc/Distribution"/><requires rdf:resource="http://web.resource.org/cc/Notice"/><requires rdf:resource="http://web.resource.org/cc/Attribution"/><prohibits rdf:resource="http://web.resource.org/cc/CommercialUse"/><permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/><requires rdf:resource="http://web.resource.org/cc/ShareAlike"/></License></rdf:RDF> --><br />
+
+Copyright 2006 by Brendan K Callahan &amp; David Goodwin</p>
+</body>
+</html>
